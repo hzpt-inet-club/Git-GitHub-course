@@ -3,7 +3,8 @@
 ## Git 的起源
 
 #### "自由主义( 开源 ) 教皇" 林纳斯·托瓦兹
-
+![Linus Torvalds](https://user-images.githubusercontent.com/88971894/136782663-6985066a-d110-4a5e-9e05-6929bbac454e.jpg)<br>
+1991年的10月5日，林纳斯·托瓦兹正式向外宣布Linux内核的诞生
 * Linux
 * Git
 
